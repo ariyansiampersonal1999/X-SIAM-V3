@@ -183,7 +183,7 @@ module.exports.onChat = async ({
 }) => {
     try {
         const body = event.body ? event.body?.toLowerCase() : ""
-        if (body.startsWith("baby") || body.startsWith("bby") || body.startsWith("bot") || body.startsWith("jan") || body.startsWith("babu") || body.startsWith("janu")) {
+        if (body.startsWith("বেবি") || body.startsWith("bby") || body.startsWith("bot") || body.startsWith("jan") || body.startsWith("ariyan") || body.startsWith("siam")) {
             const arr = body.replace(/^\S+\s*/, "")
             const randomReplies = ["𝗕𝗯𝘆 𝗕𝗯𝘆 না করে আমার বস মানে, SIAM ,SIAM ও তো করতে পারো😑?", "Yes 😀, I am here", "amr JaNu lagbe,Tumi ki single aso?", "Bolo jaan ki korte panmr jonno", "আমি হাজারো মশার Crush😓", "__ফ্রী ফে'সবুক চালাই কা'রন মেয়েদের মুখ দেখা হারাম 😌", "মন সুন্দর বানাও মুখের জন্য তো 'Snapchat' আছেই! 🌚", "Bolo Babu, তুমি কি আমাকে ভালোবাসো? 🙈"];
             if (!arr) {
