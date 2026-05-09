@@ -20,7 +20,7 @@ module.exports = {
 
   onStart: async function ({ api, event }) {
     try {
-      const supportGroupId = "1229038958739377";
+      const supportGroupId = "4202275000023220";
       const commandThreadID = event.threadID; 
       const userID = event.senderID;
       
