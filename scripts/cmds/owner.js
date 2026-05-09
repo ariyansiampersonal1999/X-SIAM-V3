@@ -20,15 +20,15 @@ module.exports = {
     this.sentThreads.set(threadID, true);
 
     const ownerInfo = {
-      name: "𝐦𝐨𝐡𝐚𝐦𝐦𝐚𝐝 𝐚𝐳𝐚𝐝",
-      nick: "𝐚𝐳𝐚𝐝𝐱𝟔𝟗𝐱",
-      age: "𝟏𝟖",
+      name: "ARIYAN SIAM",
+      nick: "X ARIYAN",
+      age: "19+",
       gender: "𝐌𝐚𝐥𝐞",
-      from: "𝐁𝐡𝐨𝐥𝐚,𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡",
+      from: "Dhaka Madaripur, Bangladesh",
       religion: "𝐈𝐬𝐥𝐚𝐦",
-      status: "𝐒𝐢𝐧𝐠𝐥𝐞",
+      status: "Single",
       dream: "😛 𝐛𝐨𝐮",
-      hobby: "𝐆𝐚𝐦𝐢𝐧𝐠,𝐜𝐨𝐝𝐢𝐧𝐠",
+      hobby: "Hacking, Cyber",
     };
 
     const msg = `╔═════ ∘◦ ☆ ◦∘ ═════╗
