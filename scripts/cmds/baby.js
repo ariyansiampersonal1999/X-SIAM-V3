@@ -195,7 +195,7 @@ module.exports.onChat = async ({
 "মন সুন্দর বানাও মুখের জন্য তো Snapchat আছেই! 🌚",
 "Bolo Babu, তুমি কি আমাকে ভালোবাসো? 🙈",
 "বার বার Disturb করেছিস কেনো, আমার জানু এর সাথে ব্যাস্ত আছি 😋",
-"naw amr boss k WhatsApp a message daw",
+"naw 01898516963 amr boss k WhatsApp a message daw",
 "খাওয়া দাওয়া করসো 🙄?",
 "oi meye Tmi ki Ariyan er bow hoba?",
 "আমাকে ডাকলে, আমি কিন্তু kiss করে দেবো 😘",
