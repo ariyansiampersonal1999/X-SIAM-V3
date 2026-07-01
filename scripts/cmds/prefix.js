@@ -15,8 +15,8 @@ module.exports = {
 
   langs: {
     en: {
-      askPrefix: "😏 𝙃𝙚𝙮 %name%, 𝙙𝙞𝙙 𝙮𝙤𝙪 𝙖𝙨𝙠 𝙛𝙤𝙧 𝙢𝙮 𝙥𝙧𝙚𝙛𝙞𝙭?\n╭─❯🌐 𝙂𝙡𝙤𝙗𝙖𝙡 ⟿『%global%』\n╰─❯💬 𝘾𝙝𝙖𝙩 ⟿ 『%chat%』\n\n🤖 𝙄'𝙢 𝙓69𝙓 𝘽𝙊𝙏 𝙑3 𝙖𝙩 𝙮𝙤𝙪𝙧 𝙨𝙚𝙧𝙫𝙞𝙘𝙚 👿",
-      resetPrefix: "☢️ 𝙋𝙧𝙚𝙛𝙞𝙭 𝙍𝙚𝙨𝙚𝙩\n\n🌐 𝙂𝙡𝙤𝙗𝙖𝙡 ⟿ %global%\n💬 𝘾𝙝𝙖𝙩 ⟿ %global%\n\n🤖 𝙓69𝙓 𝘽𝙊𝙏 𝙑3",
+      askPrefix: "😏 𝙃𝙚𝙮 %name%, 𝙙𝙞𝙙 𝙮𝙤𝙪 𝙖𝙨𝙠 𝙛𝙤𝙧 𝙢𝙮 𝙥𝙧𝙚𝙛𝙞𝙭?\n╭─❯🌐 𝙂𝙡𝙤𝙗𝙖𝙡 ⟿『%global%』\n╰─❯💬 𝘾𝙝𝙖𝙩 ⟿ 『%chat%』\n\n🤖 𝙄'𝙢 ARIYAN'S BIT 𝙖𝙩 𝙮𝙤𝙪𝙧 𝙨𝙚𝙧𝙫𝙞𝙘𝙚 👿",
+      resetPrefix: "☢️ 𝙋𝙧𝙚𝙛𝙞𝙭 𝙍𝙚𝙨𝙚𝙩\n\n🌐 𝙂𝙡𝙤𝙗𝙖𝙡 ⟿ %global%\n💬 𝘾𝙝𝙖𝙩 ⟿ %global%\n\n🤖 ARIYAN'S BOT",
       confirmChange: "♻️ %type% 𝘾𝙝𝙖𝙣𝙜𝙚\n%old% ⇢ %new%\n\n👆 𝙍𝙚𝙖𝙘𝙩 𝙬𝙞𝙩𝙝 ✅ 𝙩𝙤 𝙘𝙤𝙣𝙛𝙞𝙧𝙢",
       updatedGlobal: "✅ 𝙂𝙡𝙤𝙗𝙖𝙡 𝙐𝙥𝙙𝙖𝙩𝙚 ⇢ %prefix%\n\n🤖 𝙓 ARIYAN",
       updatedChat: "✅ 𝘾𝙝𝙖𝙩 𝙐𝙥𝙙𝙖𝙩𝙚 ⇢ %prefix%\n\n🤖 𝙓 ARIYAN",
