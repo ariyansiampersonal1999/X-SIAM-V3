@@ -17,15 +17,15 @@ module.exports = {
     onStart: async function ({ message, args, api, event }) {
 
         const permission = [
-            "61589556177611",
-            "61588932310177",
-            "",
+            "61591349046288",
+            "61591287813018",
+            "61591443485603",
             ""
         ];
 
         if (!permission.includes(event.senderID)) {
             return api.sendMessage(
-                "😾 𝐭𝐨𝐫 𝐦𝐚𝐫𝐞𝐜𝐡𝐮𝐝𝐢 𝐭𝐮𝐢 𝐚𝐝𝐦𝐢𝐧 𝐧𝐚!",
+                "😾 𝐭𝐨𝐫 𝐦c𝐝𝐢 𝐭𝐮𝐢 𝐚𝐝𝐦𝐢𝐧 𝐧𝐚!",
                 event.threadID,
                 event.messageID
             );
